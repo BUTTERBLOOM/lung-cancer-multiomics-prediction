@@ -255,6 +255,6 @@ cancer-prediction-pipeline/
 
 ## 💡 Final Note
 
-This project is still under development — just like our understanding of life, biology, and debugging errors at 3 AM. But we hope to soon turn this pipeline into a fully working cancer prediction system that actually behaves better than our code on first run :)
+This project is still under development...just like our understanding of life, biology, and debugging errors at 3 AM. But we hope to soon turn this pipeline into a fully working cancer prediction system that actually behaves better than our code on first run :)
 
 ---
