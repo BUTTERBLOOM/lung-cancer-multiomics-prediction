@@ -1,1 +1,1 @@
-# AIML
+# lung-cancer-multiomics-prediction
