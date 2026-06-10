@@ -1,0 +1,4 @@
+Model,Accuracy,AUC,F1
+Random Forest,0.95,0.985,0.9492
+SVM,0.9667,0.9803,0.9667
+Logistic Regression,0.9667,0.9883,0.9667
